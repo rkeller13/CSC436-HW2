@@ -1,0 +1,10 @@
+@import './my-button.component.css';
+
+export class is-liked {
+	
+	background-color: green;
+}
+
+	
+
+
